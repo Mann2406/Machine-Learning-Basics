@@ -1,4 +1,4 @@
-# S4DS-repo
+# Worl-repo
 This repository contains the task given by DJ S4DS alongwith some of the other assignments done by me.
 The task is performed using the dataset link provided by DJ S4DS.
 It contains general and very basic EDA.
